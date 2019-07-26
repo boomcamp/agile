@@ -37,7 +37,7 @@ e.g:
 The product owner - `is commonly a lead user of the system or someone from marketing, product management or anyone with a solid understanding of users, the market place`, the competition and of future trends for the domain or type of system being developed. 
 
 
-**The Development Team** -  
+**The Development Team** - It composed by 
 	
 - Project manager 
 - Quality Assurance Team 
@@ -65,7 +65,12 @@ The role does not generally have any actual authority. People filling this role 
 
 Illustration: LINK HERE
 
-**Sprint Goal** - TODO
+**Sprint Goal** -  is an objective set for the sprint that `can be met through the implementation of Product Backlog`.
+
+example of sprint goal for a `shopping cart`.
+
+- Implement basic shopping cart functionality including add, remove, and update quantities.
+- Develop the checkout process: pay for an order, pick shipping, order gift wrapping, etc.
 
 **Sprint Backlog** - The sprint backlog is a list of tasks identified by the Scrum team to be completed during the Scrum sprint. During the sprint planning meeting, the team selects some number of `product backlog items`. 
 
@@ -93,13 +98,18 @@ including a `rough estimation` and `percentage` for `every inprogress` task give
 
 Example Illustration of a project timeline for every `sprint deliverables`:
 
-![alt text](/illustrationproject-timeline.png)
+![alt text](/illustration/project-timeline.png)
 
-**Sprint Review** - is an objective set for the sprint that `can be met through the implementation of Product Backlog`.
+**Sprint Review** - The sprint review is an `informal meeting`, the team gives a demo on the product and will determine what are finished and what aren’t
 
-example of sprint goal for a `shopping cart`.
+Attendes in sprint review:
+- scrum master 
+- product owner
+- stakeholders
 
-- Implement basic shopping cart functionality including add, remove, and update quantities.
-- Develop the checkout process: pay for an order, pick shipping, order gift wrapping, etc.
+To determine the:
+- finished
+- not
+
 
 
