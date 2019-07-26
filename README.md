@@ -63,7 +63,9 @@ The role does not generally have any actual authority. People filling this role 
 
 **Product Backlog** - is simply a `list of all things that needs to be done within the project`. It replaces the traditional requirements specification artifacts. These items can have a technical nature or can be user-centric e.g. in the form of `user stories`
 
-Illustration: LINK HERE
+Illustration of `Product` backlog:
+
+![alt text](/illustration/product-backlog.jpg)
 
 **Sprint Goal** -  is an objective set for the sprint that `can be met through the implementation of Product Backlog`.
 
@@ -74,18 +76,18 @@ example of sprint goal for a `shopping cart`.
 
 **Sprint Backlog** - The sprint backlog is a list of tasks identified by the Scrum team to be completed during the Scrum sprint. During the sprint planning meeting, the team selects some number of `product backlog items`. 
 
-Example illustration of a product backlog
+Example illustration of a `product` vs `sprint` backlog
 
 ![alt text](/illustration/sprint-backlog.jpg)
 
 Those selected items from sprint will sort from:
 
-- Highest priority. 
-- Low priority.
+- `Highest` priority. 
+- `Low` priority.
 
 **Daily Scrum Meeting** - Daily Scrum is a 15-minute time-boxed event for the Development Team to synchronize activities and create a plan for the next 24 hours. The Daily Scrum is held every day of the Sprint. At it, the Development Team plans work for the next 24 hours. This optimizes team collaboration and performance by inspecting the work since the last Daily Scrum and forecasting upcoming Sprint work.
 
-every sprint task will be estimated and will categorized as:
+every `sprint task` will be `estimated` and will categorized as:
 
 - New
 - Inprogress
