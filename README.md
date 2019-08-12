@@ -114,4 +114,6 @@ To determine the:
 - not
 
 
+### Scrum Ceremonies
+![Scrum Ceremonies](CEREMONIES.md)
 
