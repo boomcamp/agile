@@ -115,5 +115,5 @@ To determine the:
 
 
 ### Scrum Ceremonies
-![Scrum Ceremonies](CEREMONIES.md)
+[Scrum Ceremonies](CEREMONIES.md)
 
