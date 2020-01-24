@@ -35,3 +35,8 @@
 	2. Where to improve?
 - Improvements adopt to next sprint
 - Facilitate: Scrum Master, Product Owner, Entire Agile team
+
+
+### External Resource(s)
+
+[[4 Key] Scrum Ceremonies in Agile Methodology](https://www.youtube.com/watch?v=33Fk3r9ZSUg)
